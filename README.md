@@ -17,7 +17,7 @@ I’m open to collaborating on **Flutter and mobile projects**.
 
 ## 📫 Contact Me
 - Email: hamdanhussain888999@gmail.com  
-- Facebook: [@Hamdan Hussain](https://www.facebook.com/HamdanHussain)  
+- Facebook: [@Hamdan H](https://www.facebook.com/me/)  
 
 ## ⚡ Fun Fact
 I love seeing my code come to life in apps and experimenting with UI/UX designs!
