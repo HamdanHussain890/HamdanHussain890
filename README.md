@@ -10,7 +10,7 @@ I’m a **Mobile App Developer** specializing in **Flutter**. I love turning ide
 ## 💻 Tech Stack
 - **Languages:** Dart, JavaScript, HTML, CSS  
 - **Frameworks:** Flutter, Firebase  
-- **Tools:** VS Code, Git, GitHub  
+- **Tools:**  Android Studio, VS Code, Git, GitHub  
 
 ## 🤝 Let’s Collaborate
 I’m open to collaborating on **Flutter and mobile projects**.  
